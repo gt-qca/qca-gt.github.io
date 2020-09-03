@@ -2,19 +2,14 @@
 
 ### Our Purpose
 
-Create a community of students interested in quantum computing by organizing casual social events such as lunches or recreational events
 
-​
+#### Create a community of students interested in quantum computing by organizing casual social events such as lunches or recreational events
 
-Connect students with resources, people, and opportunities in quantum computing, both academic and professional
+#### Connect students with resources, people, and opportunities in quantum computing, both academic and professional
 
-​
+#### Cultivate students' skill, interest and knowledge of quantum computing by organizing paper reading groups, discussions with professors, and quantum computing projects
 
-Cultivate students' skill, interest and knowledge of quantum computing by organizing paper reading groups, discussions with professors, and quantum computing projects
 
-You can use the [editor on GitHub](https://github.com/qca-gt/qca-gt.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
