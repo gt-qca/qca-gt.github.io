@@ -18,27 +18,42 @@ We are a student-led organization at Georgia Tech starting in Spring 2020. Georg
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Contact Us
 
-- Bulleted
-- List
+If you are interested in joining please fill out the following google form:
 
-1. Numbered
-2. List
+https://forms.gle/jEdT6LiaEQPBpRsW6
 
-**Bold** and _Italic_ and `Code` text
+Please feel free to contact exec for any questions:  
 
-[Link](url) and ![Image](src)
-```
+joeldraj4@gatech.edu
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+470-237-9153
 
-### Jekyll Themes
+### Campus Resources
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qca-gt/qca-gt.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+ROGUES GALLERY VIP TEAM
+Dr. Jason Riedy and Dr. Jeff Young
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Our main goal for this project is to help interface new “post-Moore” hardware like neuromorphic field-programmable analog arrays (FPAAs), quantum computing, memory-centric architectures like the Emu Chick, and tightly coupled FPGAs with current software technologies. We aim to develop easy-to-use software demonstrations and examples for each new piece of hardware in the Rogues Gallery testbed and to design strategies to extend the hardware for interesting research problems and class projects.
+
+
+CHAPMAN LABS
+Dr. Michael Chapman
+
+Our research is focused on investigating the quantum behavior of atoms and photons, often at the single particle level. We employ lasers to confine and cool atoms to nano-Kelvin temperatures, which are used for studies including fundamental atom-photon interactions, atom optics and interferometry, and quantum computing and communication.
+
+
+#### Courses at GT
+
+#### PHYS/MATH 4782
+Quantum Computing and Information
+
+Introduction to quantum computing and quantum information theory, formalism of quantum mechanics, quantum gates, algorithms, measurements, coding, and information. Physical realizations and experiments
+
+#### ECE 8863/8853
+Introduction to Quantum Systems
+
+Graduate level course on quantum hardware and devices
+
