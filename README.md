@@ -13,26 +13,21 @@
 
 ### About Us
 
-We are a student-led organization at Georgia Tech starting in Spring 2020. Georgia Tech has a lot to offer when it comes to Quantum Computing. We're here to aid the student body with learning about this subject. If you're interested in joining. Please reach out!
+We are a student-led organization at Georgia Tech starting in Spring 2020. Georgia Tech has a lot to offer when it comes to Quantum Computing. We're here to aid the student body with learning about this subject. If you're interested in joining. Please join at https://gatech.campuslabs.com/engage/organization/qca-gt (make sure to sign in in the upper right corner)
 
 
 ### Contact Us
-
-If you are interested in joining please fill out the following google form:
-
-https://forms.gle/jEdT6LiaEQPBpRsW6
 
 Please feel free to contact exec for any questions:  
 
 joeldraj4@gatech.edu
 
-470-237-9153
 
 ### Campus Resources
 
 
 ROGUES GALLERY VIP TEAM
-Dr. Jason Riedy and Dr. Jeff Young
+Dr. Jeff Young
 
 Our main goal for this project is to help interface new “post-Moore” hardware like neuromorphic field-programmable analog arrays (FPAAs), quantum computing, memory-centric architectures like the Emu Chick, and tightly coupled FPGAs with current software technologies. We aim to develop easy-to-use software demonstrations and examples for each new piece of hardware in the Rogues Gallery testbed and to design strategies to extend the hardware for interesting research problems and class projects.
 
@@ -46,12 +41,13 @@ Our research is focused on investigating the quantum behavior of atoms and photo
 #### Courses at GT
 
 PHYS/MATH 4782
-Quantum Computing and Information
+Quantum Computing and Information, Dr. Brian Kennedy
 
-Introduction to quantum computing and quantum information theory, formalism of quantum mechanics, quantum gates, algorithms, measurements, coding, and information. Physical realizations and experiments
+ECE 8863
+Quantum Computing Devices Hardware, Dr. Asif Khan
 
-ECE 8863/8853
-Introduction to Quantum Systems
+ECE 8803
+Introduction to Quantum Systems, Dr. Qureshi
 
-Graduate level course on quantum hardware and devices
+
 
