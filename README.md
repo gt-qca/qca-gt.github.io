@@ -31,13 +31,13 @@ joeldraj4@gatech.edu
 ### Campus Resources
 
 
-##### ROGUES GALLERY VIP TEAM
+ROGUES GALLERY VIP TEAM
 Dr. Jason Riedy and Dr. Jeff Young
 
 Our main goal for this project is to help interface new “post-Moore” hardware like neuromorphic field-programmable analog arrays (FPAAs), quantum computing, memory-centric architectures like the Emu Chick, and tightly coupled FPGAs with current software technologies. We aim to develop easy-to-use software demonstrations and examples for each new piece of hardware in the Rogues Gallery testbed and to design strategies to extend the hardware for interesting research problems and class projects.
 
 
-##### CHAPMAN LABS
+CHAPMAN LABS
 Dr. Michael Chapman
 
 Our research is focused on investigating the quantum behavior of atoms and photons, often at the single particle level. We employ lasers to confine and cool atoms to nano-Kelvin temperatures, which are used for studies including fundamental atom-photon interactions, atom optics and interferometry, and quantum computing and communication.
@@ -45,12 +45,12 @@ Our research is focused on investigating the quantum behavior of atoms and photo
 
 #### Courses at GT
 
-##### PHYS/MATH 4782
+PHYS/MATH 4782
 Quantum Computing and Information
 
 Introduction to quantum computing and quantum information theory, formalism of quantum mechanics, quantum gates, algorithms, measurements, coding, and information. Physical realizations and experiments
 
-##### ECE 8863/8853
+ECE 8863/8853
 Introduction to Quantum Systems
 
 Graduate level course on quantum hardware and devices
