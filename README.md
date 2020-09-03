@@ -25,6 +25,7 @@ joeldraj4@gatech.edu
 
 ### Campus Resources
 
+#### Research Teams
 
 ROGUES GALLERY VIP TEAM
 Dr. Jeff Young
