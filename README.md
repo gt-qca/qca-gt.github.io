@@ -11,9 +11,9 @@
 
 
 
-### Markdown
+### About Us
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We are a student-led organization at Georgia Tech starting in Spring 2020. Georgia Tech has a lot to offer when it comes to Quantum Computing. We're here to aid the student body with learning about this subject. If you're interested in joining. Please reach out!
 
 ```markdown
 Syntax highlighted code block
