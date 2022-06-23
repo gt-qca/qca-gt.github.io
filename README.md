@@ -20,8 +20,6 @@ We are a student-led organization at Georgia Tech starting in Spring 2020. Georg
 
 Please feel free to contact exec for any questions:  
 
-joeldraj4@gatech.edu
-
 
 ### Campus Resources
 
